@@ -1,7 +1,7 @@
 # http-under-the-hood
 
 
-## What Happens When You Type a URL and Press Enter?
+## What Happens you open a website ?
 
 Most people think a website loads instantly.
 In reality, a series of precise technical steps happen 
