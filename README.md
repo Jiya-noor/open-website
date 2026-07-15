@@ -25,7 +25,7 @@ to get the actual phone number.
 
 
 
-![DNS Lookup Output](nslookup.png)
+![DNS Lookup Output](dns.jpg)
 
 
 
